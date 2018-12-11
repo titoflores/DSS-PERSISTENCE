@@ -1,0 +1,22 @@
+= Intro to AsciiDoctor
+Introduccion para Presentacion de Modulo
+
+== Welcome
+
+Bienvenidos vamos a realizar la prueba con asciiDoctor
+
+== Lista
+
+* Uno
+* Dos
+* tres
+
+== Instalacion de Ruby
+
+https://rubyinstaller.org/
+Tutorial: https://youtu.be/0kNOrgTuQsE
+
+== Paso de Instalacion
+
+* gem install asciidoctor
+* gem install asciidoctor-pdf --pre
